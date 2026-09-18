@@ -6,7 +6,7 @@ from decimal import Decimal
 
 from billing_app.config import PROJECT_ROOT, validate_config
 
-
+# this is a comment
 def load_rows(path):
     """Read invoices and convert monetary values to exact decimals."""
     with path.open(encoding="utf-8", newline="") as csv_file:
