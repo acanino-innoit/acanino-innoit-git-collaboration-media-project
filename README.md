@@ -99,4 +99,4 @@ pytest
 ## Project overview
 
 This training project reads fictional billing records and prints a small billing summary.
-It is used to practise collaborative GitHub workflows.
+It is used to practise collaborative GitHub workflows. + comment
