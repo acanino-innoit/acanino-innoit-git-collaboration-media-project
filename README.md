@@ -104,5 +104,8 @@ It is used to practise collaborative GitHub workflows.
 ## .env
 we want to use .env
 
-# dependecy
+## dependecy
 and dependencies too
+
+## local comand run
+important too
