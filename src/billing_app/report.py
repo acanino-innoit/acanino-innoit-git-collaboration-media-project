@@ -33,7 +33,7 @@ def print_report(summary):
     print(f"Rows: {summary['rows']}")
     print(f"Total billed (EUR): {summary['total_billed']:.2f}")
     print(f"Total paid (EUR): {summary['total_paid']:.2f}")
-    print("Billing report generated successfully."
+    print("Billing report generated successfully.")
 
 
 def main():
