@@ -100,3 +100,12 @@ pytest
 
 This training project reads fictional billing records and prints a small billing summary.
 It is used to practise collaborative GitHub workflows.
+
+## .env
+we want to use .env
+
+## dependecy
+and dependencies too
+
+## local comand run
+important too
