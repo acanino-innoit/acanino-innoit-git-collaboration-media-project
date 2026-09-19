@@ -95,3 +95,8 @@ PYTHONPATH=src ./.venv/bin/python -m billing_app.report
 ```bash
 pytest
 ```
+
+## Project overview
+
+This training project reads fictional billing records and prints a small billing summary.
+It is used to practise collaborative GitHub workflows.
