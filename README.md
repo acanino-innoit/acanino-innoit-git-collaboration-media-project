@@ -104,3 +104,5 @@ It is used to practise collaborative GitHub workflows. +comment
 ## .env
 we want to use .env and that¡s it 
 
+# dependency 
+some dependecies added
