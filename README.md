@@ -102,10 +102,5 @@ This training project reads fictional billing records and prints a small billing
 It is used to practise collaborative GitHub workflows. +comment
 
 ## .env
-we want to use .env
+we want to use .env and that¡s it 
 
-## dependecy
-and dependencies too
-
-## local comand run
-important too
