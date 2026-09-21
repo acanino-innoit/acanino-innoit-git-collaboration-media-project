@@ -106,3 +106,6 @@ we want to use .env and that¡s it
 
 # dependency 
 some dependecies added
+
+# local guide
+to run the local version check above
